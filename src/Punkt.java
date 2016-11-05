@@ -8,8 +8,8 @@ public class Punkt {
 
 // KONSTRUKTOREN
     public Punkt(double x,double y) {
-        this.getX();
-        this.getY();
+        this.x = x;
+        this.y = y;
     }
 
 // GETER
